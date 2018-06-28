@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle lilyformalist",
+        "command": "lilyformalist:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "lilyformalist",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "lilyformalist:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "lilyformalist",
+  "main": "./lib/lilyformalist",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "lilyformalist:toggle"
+  },
+  "deserializers": {
+    "lilyformalist/LilyFormalistView": "deserializeLilyFormalistView"
+  },
+  "repository": "https://github.com/atom/lilyformalist",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "interactjs":"^1.3.4",
+    "atom-package-deps": "^4.6.2",
+    "etch": "^0.14.0"
+  },
+  "package-deps": [
+    "lilycompile",
+    "atom-live-server"
+  ]
+}
