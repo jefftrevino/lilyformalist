@@ -3,7 +3,7 @@
 
 
 {
-    \include "score-one.ly"
+    \include "/Users/simjeff/.atom/dev/packages/lilyformalist/ly/score-one.ly"
     \include "score-two.ly"
     \include "score-three.ly"
 }
