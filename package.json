@@ -5,9 +5,6 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "deserializers": {
-    "lilyformalist/LilyFormalistView": "deserializeLilyFormalistView"
-  },
   "repository": "https://github.com/atom/lilyformalist",
   "license": "MIT",
   "engines": {
