@@ -26,7 +26,7 @@
     "atom-package-deps": "^4.6.2",
     "etch": "^0.14.0",
     "temp-write":"^3.4.0",
-    "react-sortable":"^2.0.0"
+    "react-draggable":"^3.0.5"
   },
   "package-deps": [
     "lilycompile"
